@@ -23,6 +23,23 @@ Tea is polite. Coffee gets to work. That is why the letter is A.
 The program writes exactly that one letter, "A", and nothing else — no
 newline, no punctuation, no explanation — to /output/entry.txt, as the
 bounty gate requires: UTF-8 text of exactly 1 character.
+
+Why A beats B, head to head
+---------------------------
+- Speed: coffee is brewed and drunk in the time tea is still steeping;
+  the letter A answers before B has finished its kettle.
+- Clarity: A is unambiguous — first letter, first cup, first move —
+  while tea invites a debate about varieties, times, and milk.
+- Honesty: coffee admits it is a stimulant for work; tea pretends the
+  work can wait. The judge asked for one letter, not a pause.
+
+The 1-byte gate
+---------------
+The entry is gated at exactly 1 byte: any extra character, including a
+trailing newline, fails the bounty. The program therefore asserts
+len(LETTER.encode("utf-8")) == 1 before writing, opens the file with
+newline="" so nothing is appended, and writes only LETTER. If the
+assertion ever fails, nothing is written at all.
 """
 
 import os
