@@ -16,5 +16,13 @@ going — it makes the day go. And A is the first letter, the first answer, the
 first cup: the day starts now, not in five minutes when the water is ready.
 Tea is polite. Coffee gets to work.
 
+Why A beats B, head to head: coffee is the only drink that comes with a
+deadline — an espresso takes 25 seconds, while tea is "whenever the kettle
+feels like it". A is also the grade coffee earns and the shape of a day
+starting: a peak, an arrow pointing up. B is two bumps, a stutter — a drink
+that cannot decide what it is: black, green, herbal, with milk, without?
+Tea asks you to sit down. Coffee stands you up. A is the first letter
+because coffee is the first move.
+
 Run it with `python3 main.py`. It is deterministic: run it twice and the
 output is byte-identical.
