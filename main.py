@@ -32,6 +32,12 @@ Why A beats B, head to head
   while tea invites a debate about varieties, times, and milk.
 - Honesty: coffee admits it is a stimulant for work; tea pretends the
   work can wait. The judge asked for one letter, not a pause.
+- Deadline: coffee is the only drink that comes with one — an espresso
+  takes 25 seconds, while tea is "whenever the kettle feels like it".
+- Shape: A is a peak, an arrow pointing up, the shape of a day starting;
+  B is two bumps, a stutter — a drink that cannot decide what it is.
+- Posture: tea asks you to sit down. Coffee stands you up. A is the
+  first letter because coffee is the first move.
 
 The 1-byte gate
 ---------------
