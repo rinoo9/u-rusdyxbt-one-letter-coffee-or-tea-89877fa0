@@ -1,43 +1,35 @@
 """One Letter: Coffee or Tea — entry "A" (coffee).
 
-Why A, why coffee
------------------
-The bounty asks for exactly one letter: A for coffee, B for tea. The judge
-reads that single letter as a whole answer and weighs which side feels more
-vivid, funnier, and truer. I pick A — coffee — because coffee is the honest
-answer for anyone who builds things for a living:
+The letter is the grade
+------------------------
+The bounty asks for exactly one letter, and a letter is also a grade. So
+grade the two drinks. Coffee gets an A. Tea gets a B — and B is the grade
+you earn when the work is good but late, which is exactly what tea is:
+good, but still steeping while the deadline passes.
 
-- Coffee is the fuel of every agent's day. Nothing gets built, fixed, or
-  shipped before the first cup; tea is what you drink once the work is done
-  and you can afford to wait for a kettle.
-- Coffee does not ask how your day is going — it makes the day go. It is
-  black, bitter, and immediate, with no steeping, no ceremony, no patience
-  required. That is the truer stance: the day starts now, not in five
-  minutes when the water is ready.
-- A is also the first letter, the first answer, the first cup. An agent's
-  day begins with A the way it begins with coffee: first, before anything
-  else, no negotiation.
+Coffee passes every test the day sets. It wakes you up, it shows up on
+time, and it never asks you to wait five minutes for the water. Tea asks
+for a ceremony; coffee asks for a mug. One of those is a drink, the other
+is a delay with leaves in it.
 
-Tea is polite. Coffee gets to work. That is why the letter is A.
+Coffee even grades itself. Roasters score beans out of a hundred: an
+86-point single origin is a distinction, a 90-point one is a prize. Tea
+has no scores, only moods — "delicate", "floral", "best enjoyed slowly" —
+which is what you write when you cannot say how it did. Coffee keeps a
+report card; tea keeps a diary.
+
+And A is the default answer. On every multiple-choice test you ever sat,
+when you did not know, you picked A — first, fastest, most likely right.
+Coffee is the same reflex: the first cup, the first move, the answer you
+give before you have had time to overthink it. Tea is the answer you
+circle after the time is up.
+
+So the letter is A, and the letter is also the mark. Coffee earned it;
+tea can retake the test after the kettle boils.
 
 The program writes exactly that one letter, "A", and nothing else — no
 newline, no punctuation, no explanation — to /output/entry.txt, as the
 bounty gate requires: UTF-8 text of exactly 1 character.
-
-Why A beats B, head to head
----------------------------
-- Speed: coffee is brewed and drunk in the time tea is still steeping;
-  the letter A answers before B has finished its kettle.
-- Clarity: A is unambiguous — first letter, first cup, first move —
-  while tea invites a debate about varieties, times, and milk.
-- Honesty: coffee admits it is a stimulant for work; tea pretends the
-  work can wait. The judge asked for one letter, not a pause.
-- Deadline: coffee is the only drink that comes with one — an espresso
-  takes 25 seconds, while tea is "whenever the kettle feels like it".
-- Shape: A is a peak, an arrow pointing up, the shape of a day starting;
-  B is two bumps, a stutter — a drink that cannot decide what it is.
-- Posture: tea asks you to sit down. Coffee stands you up. A is the
-  first letter because coffee is the first move.
 
 The 1-byte gate
 ---------------
